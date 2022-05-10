@@ -4,5 +4,5 @@ P/d: I'm so bad at writing these things lol.</br>
 
 - 👁️ I’m currently in procces of learning to be a full stack web developer.
 - 🥴 Pronouns: (ㆆ_ㆆ).
-- I like videogames a little bit 🥲.</br>
+- 🥲 I like videogames a little bit.</br>
 That's all.
