@@ -17,6 +17,6 @@ As a self-taught developer, I seek to delve deep into every technology I encount
 
 ## Social Presence
 
-I don't have a LinkedIn profile, and I'm not active on social media. My interests lie in technology, development, and the continual pursuit of improvement.
+I'm not active on social media. My interests lie in technology, development, and the continual pursuit of improvement.
 
 Thank you for stopping by my profile.
