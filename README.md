@@ -4,7 +4,7 @@
 
 ## About Me
 
-My name is Eyen Tuyon, and I'm a self-driven software developer on a perpetual learning journey. I specialize in technologies such as React, TypeScript, HTML, CSS, UnoCSS, and Firebase. Currently, I am diving into Next.js and Supabase.
+My name is Eyen Tuyon, and I'm a self-driven software developer on a perpetual learning journey. I specialize in technologies such as React, Next.js, TypeScript, HTML, CSS, UnoCSS, and Firebase. Currently, I am diving into Supabase, postgreSQL, and cloud computing services such as AWS.
 
 ## Featured Projects
 
